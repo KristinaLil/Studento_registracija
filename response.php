@@ -12,7 +12,7 @@
 
 <body>
 
-    <div class="container mt-5">
+    <div class="container mt-5 mb-5">
         <div>
             <h1 class="text-center text-white">Studento registracija</h1>
         </div>
